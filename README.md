@@ -16,6 +16,7 @@ JTD 코딩 인터뷰 스터디 2017 C++반의 문제 해결 저장소입니다.
  - 1차 모임 2017-01-15
    1. 숫자 배열 0을 맨 뒤로 이동시키기
    1. 숫자카드 1~34 번위의 것으로 표현가능한 갯수 구하기 [원본](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=683&sca=30)
+     - `c++`[solution by huklee](https://github.com/JoinTogetherDevelopers/CodingStudy201702/blob/master/day1/1-2_huklee.cpp)
      - `python`[solution by huklee](https://github.com/JoinTogetherDevelopers/CodingStudy201702/blob/master/day1/1-2_huklee.py)
    1. Linked list의 deleteNode()구현하기
      - `python`[solution by huklee](https://github.com/JoinTogetherDevelopers/CodingStudy201702/blob/master/day1/1-3_huklee.py)
